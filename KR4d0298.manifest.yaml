@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR4d0298/v1
+canonical_location: https://kanripo.org/bkk/KR4d0298/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 芳蘭軒集
+  date: '2015-08-25 00:03:17.256000'
+  source:
+    repository: kanripo
+    path: KR4d0298
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0298_000.yaml, hash: 'sha256:50ee39458ad341cae6262de1e18092afe31e72243dff153314e5466bd4c358a1'}
+  - {seq: 1, filename: KR4d0298_001.yaml, hash: 'sha256:0559f9ba9f473302a9516dbb5777caeb00cdfc92300ff0ceb7d914a0898f459b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0298_000.markers.yaml, hash: 'sha256:6c18087d3fe10a69e7c4e05656c25d5e099cb7430f61b8909e8ef8b4d8453b42'}
+  - {seq: 1, role: markers, filename: assets/KR4d0298_001.markers.yaml, hash: 'sha256:aa19e314bff1d7725c497512d136e0e049f99bf86bcb36178b51ba9bca77347a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0298_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 748
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0298_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 5271
+  label: 芳蘭軒集
+  type: section
+  level: 1
+hash: sha256:345c9515f9bf0aacb9f2859e49602739f9af9fd4ffc7d126829523375e71c4d7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
