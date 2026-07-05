@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4d0298_000.yaml, hash: 'sha256:50ee39458ad341cae6262de1e18092afe31e72243dff153314e5466bd4c358a1'}
-  - {seq: 1, filename: KR4d0298_001.yaml, hash: 'sha256:0559f9ba9f473302a9516dbb5777caeb00cdfc92300ff0ceb7d914a0898f459b'}
+  - {seq: 0, filename: KR4d0298_000.yaml, hash: 'sha256:9b9fd485cdc76ee2c75c108bf4a8be0e346c2fe19f843f4fde3f3ef6eb1a7bd8'}
+  - {seq: 1, filename: KR4d0298_001.yaml, hash: 'sha256:858339586deefbc7b4654a81df0c3df6c39f2a74d7b74b322e273155af2c1dac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0298_000.markers.yaml, hash: 'sha256:6c18087d3fe10a69e7c4e05656c25d5e099cb7430f61b8909e8ef8b4d8453b42'}
-  - {seq: 1, role: markers, filename: assets/KR4d0298_001.markers.yaml, hash: 'sha256:aa19e314bff1d7725c497512d136e0e049f99bf86bcb36178b51ba9bca77347a'}
+  - {seq: 0, role: markers, filename: assets/KR4d0298_000.markers.yaml, hash: 'sha256:8af3fbb5adeccf383c4b42133f476777c143e4a0cb714cb43124dae5d5f05eb4'}
+  - {seq: 1, role: markers, filename: assets/KR4d0298_001.markers.yaml, hash: 'sha256:27f42c02a136894cd39222f272a78b053d428ad8971d15e998a7f065f6393412'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,4 @@ table_of_contents:
   label: 芳蘭軒集
   type: section
   level: 1
-hash: sha256:345c9515f9bf0aacb9f2859e49602739f9af9fd4ffc7d126829523375e71c4d7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3f69f4d17952240594551b63a62f34f0467a192b4b24504d49c72b124938d164
