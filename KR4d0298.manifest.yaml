@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4d0298_000.yaml, hash: 'sha256:629df11ff6c41bb0122e8d2d741e04154103c28878b5d1875c10eefd9779700a'}
   - {seq: 1, filename: KR4d0298_001.yaml, hash: 'sha256:3c276b69ee2126b32a227b62e71093577e9be8255cd4dd67498be22cebcfe290'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0298_000.markers.yaml, hash: 'sha256:74e759a75a087ddefce40e1db890465cf6a558d3061424086a8f393dfd0e5c7a'}
-  - {seq: 1, role: markers, filename: assets/KR4d0298_001.markers.yaml, hash: 'sha256:bacf01b2955376f444011622be6aaaac4a0b97b4756ad28a089a85616013c997'}
+  - {seq: 0, role: markers, filename: assets/KR4d0298_000.markers.yaml, hash: 'sha256:5367a8a805a8942edad844b7601d0c3e4f5b3342536517ba410d5fb0087a77c3'}
+  - {seq: 1, role: markers, filename: assets/KR4d0298_001.markers.yaml, hash: 'sha256:9fb28a4af07c40e1364ff1aa65e267fe9e67e82677603b5a163d90bb9eb5f229'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 芳蘭軒集
   type: section
   level: 1
-hash: sha256:a748d8ccbfa7a39c3d439efc752de6d7be108c742c1fc11ab5db7a341d717328
+hash: sha256:0abbb3adfb7ffb4906eeb3dd504e215a7110d98109ac2ecfa8fcf8592a8827b3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

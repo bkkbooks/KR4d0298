@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4d0298_000-WYG.yaml, hash: 'sha256:1f4481507bbf3925c267c99a6cfb81db60e5ed72906ed0d125760f0fd974ebbf'}
   - {seq: 1, filename: KR4d0298_001-WYG.yaml, hash: 'sha256:d0ce0b61182b9b699d49bcf3fa3ce2e2656f6be1e25b268948850f8a24c36982'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0298_000-WYG.markers.yaml, hash: 'sha256:cf11248d39367199ad1c15f76e52f58ac1a3406687e60e1d9be2e58b6273c65e'}
-  - {seq: 1, role: markers, filename: assets/KR4d0298_001-WYG.markers.yaml, hash: 'sha256:54646a2a24d57eafbeec13ab937124231f00dfcdea0de4cf59829f00ac697c21'}
+  - {seq: 0, role: markers, filename: assets/KR4d0298_000-WYG.markers.yaml, hash: 'sha256:ebb25de8ef5507d68418b3744890968b579f82485d18271faeb8ab0fc32e7f16'}
+  - {seq: 1, role: markers, filename: assets/KR4d0298_001-WYG.markers.yaml, hash: 'sha256:31e41e5295e241df1c864c239828e8de7719581a26aea336e01f1ae55441fa76'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 芳蘭軒集
   type: section
   level: 1
-hash: sha256:682add33524ed8ee791c4651f3274943413a61bee582cee54885709e96c1393e
+hash: sha256:ca5e8df21cffc30de3b4ed06aaa20d81623be6987a103c580f11475fe93a0280
